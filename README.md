@@ -8,6 +8,9 @@ A from-scratch black technical landing page using:
 - React Flow — interactive deployment architecture
 - React Three Fiber — premium 3D infrastructure hero
 
+  <img width="1830" height="891" alt="image" src="https://github.com/user-attachments/assets/13b86afc-fba0-481c-b59d-8866ae0aa6fc" />
+
+
 ## Run
 
 ```bash
