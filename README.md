@@ -1,84 +1,29 @@
-# ☁️ CloudDeploy
+# CloudDeploy — Immersive React Build
 
-CloudDeploy is a modern DevOps automation platform built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. It showcases cloud infrastructure management, CI/CD pipelines, Kubernetes orchestration, server monitoring, and deployment workflows through a clean, responsive, and interactive user interface.
+A from-scratch black technical landing page using:
 
-## 📁 Project Structure
+- GSAP + ScrollTrigger — cinematic scroll storytelling
+- Framer Motion — UI and card interactions
+- Lenis — smooth scrolling
+- React Flow — interactive deployment architecture
+- React Three Fiber — premium 3D infrastructure hero
 
-```text
-clouddeploy/
-├── public/                 # Static assets
-├── src/
-│   ├── components/
-│   │   ├── landing/        # Landing page sections
-│   │   └── ui/             # Reusable UI components
-│   ├── hooks/              # Custom React hooks
-│   ├── lib/                # Utility functions
-│   ├── routes/             # Application routes
-│   ├── router.tsx          # Router configuration
-│   ├── styles.css          # Global styles
-│   └── main.tsx            # Application entry point
-├── package.json
-├── vite.config.ts
-├── tsconfig.json
-└── README.md
-```
-
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/your-username/clouddeploy.git
-cd clouddeploy
-```
-
-### Install dependencies
+## Run
 
 ```bash
 npm install
-```
-
-### Start the development server
-
-```bash
 npm run dev
 ```
 
-### Build for production
+## Build
 
 ```bash
 npm run build
 ```
 
-### Preview the production build
+The project intentionally avoids Tailwind and TypeScript.
 
-```bash
-npm run preview
-```
-
-## 🌐 Deployment
-
-### Deploy on Vercel
-
-1. Push the project to GitHub.
-2. Import the repository into Vercel.
-3. Framework: **Vite** (auto-detected).
-4. Click **Deploy**.
-
-### Deploy on Netlify
-
-1. Connect your GitHub repository.
-2. Set the build command:
-
-```bash
-npm run build
-```
-
-3. Set the publish directory:
-
-```text
-dist
-```
-
-4. Deploy the site.
-   https://cloud-deploy-nine.vercel.app/
+### Visual theme update
+- Electric-blue accent palette replacing the original mint/green accent.
+- Layered deep-space starfield with subtle drift and blue atmospheric glows.
+- Existing GSAP, Framer Motion, Lenis, React Flow, and React Three Fiber interactions are preserved.
